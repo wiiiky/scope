@@ -19,3 +19,4 @@
 *	[伯乐在线 - 前端](http://web.jobbole.com/feed/)
 *	[伯乐在线 - 博客](http://blog.jobbole.com/feed/)
 *	[ImportNews - Java](http://www.importnew.com/feed)
+*   [Solidot奇客](http://solidot.org.feedsportal.com/c/33236/f/556826/index.rss)

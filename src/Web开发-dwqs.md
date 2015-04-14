@@ -15,8 +15,7 @@ html4到html5,css2到css3,传统的pc到移动终端,全栈到单一又回归到
 ###工作场景
 对于一个Web项目的开发，可能牵涉到的场景大致如下：
 - 确定用户需求
-- 根据用户需求，选定开发软件，如服务器（Apache，Nignx等）、系统（Linux、Windows等）、数据库（Mysql、Oracle等）、框架（前端
-如Angular.js,bootstrap,YUI,jQuery,extjs等，后台PHP框架有ThinkPHP，ci,laveral等，Python框架有Django、Flask等）
+- 根据用户需求，选定开发软件，如服务器（Apache，Nignx等）、系统（Linux、Windows等）、数据库（Mysql、Oracle等）、框架（前端如Angular.js,bootstrap,YUI,jQuery,extjs等，后台PHP框架有ThinkPHP，ci,laveral等，Python框架有Django、Flask等）
 - UI设计师根据需求设计UI界面，前端攻城狮编码实现界面
 - 后端攻城师进行功能开发，参与数据库的设计，和前端攻城狮协调设计接口
 - 完成基本需求之后，web攻城狮针对项目进行额外的小扩展
@@ -45,12 +44,12 @@ html4到html5,css2到css3,传统的pc到移动终端,全栈到单一又回归到
 - [伯乐在线Python频道](http://python.jobbole.com/)
 - [伯乐在线](http://blog.jobbole.com/)、[CSDN](http://blog.csdn.net/)、[博客园](http://www.cnblogs.com/)上很多关于
 Web开发的优秀资源
--《JavaScript权威指南》、《JavaScript高级程序设计》 学习JavaScript必备
--《CSS权威指南》、《HTML5和CSS3权威指南》  学习CSS和HTML5不错的书籍
--《细说PHP》（基础必备）、《PHP与MySQL Web开发》（进阶必备）、《深入理解php：高级技巧、面向对象与核心技术（原书第3版）》
-（很详细的介绍了PHP面向对象的思想）
--《Python核心编程（第二版）》（很详尽，示例很多）、《Python基础教程》、《Python学习手册》（经典书籍）
--《HTTP权威指南》 介绍HTTP协议非常好的书（朋友介绍给我的）
+- 《JavaScript权威指南》、《JavaScript高级程序设计》 学习JavaScript必备
+- 《CSS权威指南》、《HTML5和CSS3权威指南》  学习CSS和HTML5不错的书籍
+- 《细说PHP》（基础必备）、《PHP与MySQLWeb开发》（进阶必备）、
+《深入理解php：高级技巧、面向对象与核心技术（原书第3版）》（很详细的介绍了PHP面向对象的思想）
+- 《Python核心编程（第二版）》（很详尽，示例很多）、《Python基础教程》、《Python学习手册》（经典书籍）
+- 《HTTP权威指南》 介绍HTTP协议非常好的书（朋友介绍给我的）
 
 ###背景
 在校生，只是自己简单的做过几个线上项目，谈不上什么经验。对Web开发甚是感兴趣，以上均是个人见解。

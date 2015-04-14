@@ -30,12 +30,12 @@ html4到html5,css2到css3,传统的pc到移动终端,全栈到单一又回归到
 - 运维攻城狮，进行项目部署和跟踪
 
 ###技能列表
-- 熟悉HTML+CSS+JavaScript
-- 熟悉PHP/Python/Java任一种后台语言
-- 熟悉MySQL/Oracle/SQL Server任一种数据库
-- 熟悉一种基本的前端框架和后端框架，如JQuery、extjs、Django、ThinkPHP等(JQuery必须熟悉的，Python作后台脚本则要熟悉Django,PHP做后台脚本则要熟悉ThinkPHP,这两种框架是大部分互联网公司在用的)
-- 了解HTTP、TCP/IP协议
-- 了解Linux操作系统
+- 熟悉HTML+CSS+JavaScript 5
+- 熟悉PHP/Python/Java任一种后台语言 5
+- 熟悉MySQL/Oracle/SQL Server任一种数据库 4
+- 熟悉一种基本的前端框架和后端框架，如JQuery、extjs、Django、ThinkPHP等(JQuery必须熟悉的，Python作后台脚本则要熟悉Django,PHP做后台脚本则要熟悉ThinkPHP,这两种框架是大部分互联网公司在用的) 4
+- 了解HTTP、TCP/IP协议  3
+- 了解Linux操作系统  3
 
 ###信息源
 - [w3官网](http://www.w3.org) 

@@ -10,3 +10,4 @@ sources.md是一些常用到的信息源，考虑到更新频率，没有加入�
 *	iOS 开发 - 使用 Objective 或 Swift 开发 iOS 程序。
 *	MySQL DBA - 
 *	运维工程师 - 
+*   手游开发 - 

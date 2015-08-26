@@ -12,6 +12,7 @@
 *   [酷壳](http://www.coolshell.cn/feed) 
 *   [淘宝UED](http://ued.taobao.org/blog/feed) 
 *   [腾讯ISUX](http://isux.tencent.com/feed) 
+*   [稀土掘金](http://gold.xitu.io/)
 *   [伯乐在线 - 安卓](http://android.jobbole.com/feed/) 
 *   [伯乐在线 - Python](http://python.jobbole.com/feed/)
 *   [伯乐在线 - 头条](http://top.jobbole.com/feed/)
